@@ -1,0 +1,6 @@
+[23-Sep-2021 09:08:27 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kirt7932/public_html/survei/application/views/survey_form/v_survey_form.php on line 120
+[23-Sep-2021 09:08:28 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kirt7932/public_html/survei/application/views/survey_form/v_survey_form.php on line 120
+[23-Sep-2021 09:08:31 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kirt7932/public_html/survei/application/views/survey_form/v_survey_form.php on line 120
+[23-Sep-2021 09:08:31 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kirt7932/public_html/survei/application/views/survey_form/v_survey_form.php on line 120
+[23-Sep-2021 09:08:50 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kirt7932/public_html/survei/application/views/survey_form/v_survey_form.php on line 120
+[23-Sep-2021 09:09:51 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kirt7932/public_html/survei/application/views/survey_form/v_survey_form.php on line 113
